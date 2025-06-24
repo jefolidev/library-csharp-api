@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3m8Xn0YRcQ=",
+  "success": true,
+  "projectFilePath": "/home/jefkjkk/Documentos/www/coding/self-projects/classes/c#/library-csharp-api/LibraryApi/LibraryApi.csproj",
+  "expectedPackageFiles": [
+    "/home/jefkjkk/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/home/jefkjkk/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/jefkjkk/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
